@@ -4,6 +4,8 @@ This repository contains Python scripts and generated figures for analyzing the 
 
 ## Main Conclusion
 
+The main conclusion of this repository is based on the visual evidence shown in `Figure_1.png`.
+
 Based on `Figure_1.png`, trading volume and volatility show relatively strong correlation in State 1 (upward trend) and State 3 (sideways regime), while in State 2 (downward trend) the relationship is not strong.
 
 ## Code Files
